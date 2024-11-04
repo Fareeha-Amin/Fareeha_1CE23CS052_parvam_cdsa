@@ -6,7 +6,7 @@ int main()
 
         
 
-    //check if number is between 10 and 20 (inclusive) and even
+    // check if number is between 10 and 20 (inclusive) and even
     /*int n;
     printf("Enter a number: ");
     scanf("%d", &n);
