@@ -12,7 +12,7 @@ int main()
     pointer2=pointer1;
     printf("%d\t%d\t%d\n",pointer1,pointer2,x);
     
-    int x,;y,*pointer;
+    int x,y,*pointer;
     x=22;
     printf("%d\n%d\n",x,y);
     pointer=&x;
